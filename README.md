@@ -1,5 +1,7 @@
 # Titanic Incident Data Analysis Project
 
+![Tableau Dashboard](https://github.com/rasadariranasinghe/titanic_data/blob/main/Titanic1_dahboard.png)
+
 ## Overview
 This project aims to analyze the survival rates of passengers aboard the Titanic to understand the impact of passenger class and age on survival outcomes. The findings provide insights into socio-economic factors and their role in disaster survival, guiding recommendations for designing safer ships and equitable emergency response systems.
 
